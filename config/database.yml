@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: task_manager_using_jquery_and_ajax_development
+test:
+  adapter: postgresql
+  database: task_manager_using_jquery_and_ajax_test
